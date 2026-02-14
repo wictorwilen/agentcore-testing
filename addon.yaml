@@ -1,0 +1,8 @@
+name: Testing
+description: testing
+author: wictorwilen
+tags:
+- test
+files:
+  agents:
+  - pm-task-radar.md
